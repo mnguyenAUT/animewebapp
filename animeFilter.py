@@ -1,11 +1,11 @@
 import argparse
-from tools.utils import *
 import os
 from tqdm import tqdm
 from glob import glob
 import time
 import numpy as np
 from animeFilterFiles import generator
+from kits.utils import *
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 # This definition is used to filter the image into an anime style.

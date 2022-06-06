@@ -15,7 +15,7 @@ dependencies:
   - cryptography=3.4.7=py36hb60f036_0
   - cudatoolkit=10.2.89=hfd86e86_1
   - dill=0.3.3=pyhd8ed1ab_0
-  - icu=67.1=he1b5a44_0
+  #- icu=67.1=he1b5a44_0
   - joblib=0.17.0=py_0
   - klepto=0.2.0=pyhd8ed1ab_0
   - ld_impl_linux-64=2.33.1=h53a641e_7
@@ -42,7 +42,7 @@ dependencies:
   - readline=8.0=h7b6447c_0
   - regex=2020.10.15=py36h7b6447c_0
   - selenium=3.141.0=py36h8c4c3a4_1002
-  - setuptools=49.6.0=py36_0
+  #- setup=49.6.0=py36_0
   - six=1.15.0=pyh9f0ad1d_0
   - soupsieve=2.0.1=py_1
   - sqlite=3.32.3=h62c20be_0
@@ -68,7 +68,7 @@ dependencies:
     - cython==0.29.22
     - dataclasses==0.8
     - decorator==4.4.2
-    - detectron2==0.4+cpu
+    #- detectron2==0.4+cpu
     - django==3.1
     - fastrlock==0.5
     - filelock==3.0.12
